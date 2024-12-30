@@ -4,7 +4,7 @@ import { launches } from '../data/launches';
 
 export function Launches() {
   return (
-    <div className="space-y-4">
+    <div className="space-y-4 flex flex-col h-full flex-grow overflow-x-auto overflow-y-auto px-4">
       <h1 className="text-2xl font-bold text-gray-900">Current Leaders</h1>
       <div className='flex items-center gap-2'>
         <SearchInput />
@@ -12,9 +12,9 @@ export function Launches() {
           <option>Latest Activity</option>
         </select>
       </div>
-      <div className='flex flex-wrap gap-2'>
-        {launches.map(launch => (
-          <LaunchCard key={launch.title} {...launch} />
+      <div className='grid grid-cols-3 gap-2 w-full'>
+        {launches.map((launch, index) => (
+          <LaunchCard key={index} {...launch} />
         ))}
       </div>
     </div>
