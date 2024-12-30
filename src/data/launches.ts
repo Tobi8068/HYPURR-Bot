@@ -1,6 +1,6 @@
 export const launches = [
   {
-    image: '/launches/tired-guy.png',
+    image: '../assets/Cat.png',
     title: 'JUST A TIRED GUY (TIRED)',
     creator: 'damientired',
     marketCap: '$7.43K',
