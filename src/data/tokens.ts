@@ -82,5 +82,103 @@ export const tableData = [
     change24h: '0.096 / 23.43%',
     volume24h: '$9.24K',
     marketCap: '$510.26K'
+  },
+  {
+    token: 'SUCKY',
+    price: '$0.00052484',
+    change24h: '0.00 / 10.88%',
+    volume24h: '$8.07K',
+    marketCap: '$423.46K'
+  },
+  {
+    token: 'HPEPE',
+    price: '$0.01447550',
+    change24h: '0.004 / 43.15%',
+    volume24h: '$84.95K',
+    marketCap: '$1.42M'
+  },
+  {
+    token: 'CZ',
+    price: '$0.327460',
+    change24h: '0.005 / 1.65%',
+    volume24h: '$8.03K',
+    marketCap: '$1.45M'
+  },
+  {
+    token: 'HODL',
+    price: '$0.006764',
+    change24h: '0.00 / 5.06%',
+    volume24h: '$4.21K',
+    marketCap: '$652.62K'
+  },
+  {
+    token: 'KOBE',
+    price: '$0.00057602',
+    change24h: '0.00 / 29.18%',
+    volume24h: '$8.03K',
+    marketCap: '$436.76K'
+  },
+  {
+    token: 'FUN',
+    price: '$0.3865750',
+    change24h: '-0.012 / -3.08%',
+    volume24h: '$79.95K',
+    marketCap: '$4.12M'
+  },
+  {
+    token: 'LORA',
+    price: '$0.508160',
+    change24h: '0.096 / 23.43%',
+    volume24h: '$9.24K',
+    marketCap: '$510.26K'
+  },
+  {
+    token: 'SUCKY',
+    price: '$0.00052484',
+    change24h: '0.00 / 10.88%',
+    volume24h: '$8.07K',
+    marketCap: '$423.46K'
+  },
+  {
+    token: 'HPEPE',
+    price: '$0.01447550',
+    change24h: '0.004 / 43.15%',
+    volume24h: '$84.95K',
+    marketCap: '$1.42M'
+  },
+  {
+    token: 'CZ',
+    price: '$0.327460',
+    change24h: '0.005 / 1.65%',
+    volume24h: '$8.03K',
+    marketCap: '$1.45M'
+  },
+  {
+    token: 'HODL',
+    price: '$0.006764',
+    change24h: '0.00 / 5.06%',
+    volume24h: '$4.21K',
+    marketCap: '$652.62K'
+  },
+  {
+    token: 'KOBE',
+    price: '$0.00057602',
+    change24h: '0.00 / 29.18%',
+    volume24h: '$8.03K',
+    marketCap: '$436.76K'
+  },
+  {
+    token: 'FUN',
+    price: '$0.3865750',
+    change24h: '-0.012 / -3.08%',
+    volume24h: '$79.95K',
+    marketCap: '$4.12M'
+  },
+  {
+    token: 'LORA',
+    price: '$0.508160',
+    change24h: '0.096 / 23.43%',
+    volume24h: '$9.24K',
+    marketCap: '$510.26K'
   }
 ];
